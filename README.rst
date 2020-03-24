@@ -1,3 +1,11 @@
+====================
+Update march 24 2020
+====================
+
+This project is now an archive, and is not maintained (if it ever was). A development effort
+based on pybind11 to ease the use of CGAL from Python is underway [here](https://github.com/krober10nd/simple_cgal)
+
+
 ======
 README
 ======
